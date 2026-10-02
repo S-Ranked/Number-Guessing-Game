@@ -1,0 +1,3 @@
+﻿  Number Guessing Game.cpp
+C:\Users\miraq\source\repos\Number Guessing Game\Number Guessing Game.cpp(37,1): warning C4715: 'DidPlayerGuessCourectlly': not all control paths return a value
+  Number Guessing Game.vcxproj -> C:\Users\miraq\source\repos\Number Guessing Game\x64\Debug\Number Guessing Game.exe
